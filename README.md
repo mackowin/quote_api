@@ -1,5 +1,5 @@
 # :speech_balloon: Quote API #
-CodeCademy Project: building a small Express.js web API
+CodeCademy Project: Building a small Express.js web API
 
 ## Table of Contents ##
 * [General Info](#General-Info)
